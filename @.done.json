@@ -1,0 +1,13 @@
+{
+    "end": "2024-02-27 15:20:58",
+    "dataBytes": 2413,
+    "tableDataBytes": {
+        "test": {
+            "test_table": 2413
+        }
+    },
+    "chunkFileBytes": {
+        "test@test_table@0.tsv.zst": 2413,
+        "test@test_table@@1.tsv.zst": 0
+    }
+}

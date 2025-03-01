@@ -1,0 +1,46 @@
+{
+    "dumper": "mysqlsh Ver 8.1.1-g2 for Win64 on x86_64 - for MySQL 8.1.0 (MySQL Community Server (GPL))",
+    "version": "2.0.1",
+    "origin": "dumpSchemas",
+    "options": {
+        "compatibility": [
+            "create_invisible_pks",
+            "force_innodb",
+            "skip_invalid_accounts",
+            "strip_definers",
+            "strip_restricted_grants",
+            "strip_tablespaces"
+        ],
+        "ocimds": true
+    },
+    "schemas": [
+        "test"
+    ],
+    "basenames": {
+        "test": "test"
+    },
+    "defaultCharacterSet": "utf8mb4",
+    "tzUtc": true,
+    "bytesPerChunk": 64000000,
+    "user": "root",
+    "hostname": "LAPTOP-A6F7RES3",
+    "server": "LAPTOP-A6F7RES3",
+    "serverVersion": "8.0.36",
+    "binlogFile": "LAPTOP-A6F7RES3-bin.000004",
+    "binlogPosition": 5685,
+    "gtidExecuted": "",
+    "gtidExecutedInconsistent": false,
+    "consistent": true,
+    "mdsCompatibility": true,
+    "partialRevokes": false,
+    "compatibilityOptions": [
+        "create_invisible_pks",
+        "force_innodb",
+        "strip_definers",
+        "strip_restricted_grants",
+        "strip_tablespaces",
+        "skip_invalid_accounts"
+    ],
+    "capabilities": [],
+    "begin": "2024-02-27 15:20:57"
+}
